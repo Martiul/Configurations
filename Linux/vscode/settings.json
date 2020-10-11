@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 1,
+    "python.terminal.activateEnvironment": false,
+    "editor.fontSize": 18,
+    "window.enableMenuBarMnemonics": false,
+    "window.customMenuBarAltFocus": false
+}
